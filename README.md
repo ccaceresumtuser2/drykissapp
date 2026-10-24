@@ -11,6 +11,7 @@ Cada ejercicio tiene dos paquetes:
 
 Ambos tienen las **mismas pruebas JUnit 5**: refactorizar es cambiar la estructura sin cambiar el comportamiento.
 Cada paquete tiene un `README.md` con el enunciado o la explicación y su **diagrama de clases** (Mermaid).
+Los mismos diagramas están en draw.io, una pestaña por paquete, en [diagramadeclase/diagramas-kiss-dry.drawio](diagramadeclase/diagramas-kiss-dry.drawio).
 
 | Principio | Nivel | Sin solución | Con solución | Tema |
 |---|---|---|---|---|
